@@ -9,3 +9,4 @@
 |:three:| Switch operator. Loops.| Switch with basic variable types. For, while, do-while loops.| 
 |:four:| Pointers. Arrays. | Address-of operator. Dereference operator. Pointer. One-dimentional arrays. | 
 |:five:| Arrays. Introduction to functions. | Quizz over the material up until week 6. Exercise over arrays. Introduction to functions. | 
+|:six:| Revision. | Test One preparation.|
