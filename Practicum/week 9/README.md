@@ -55,7 +55,7 @@ void replaceFirst(char* pch, const char* findWhat, const char* replaceWith);
 ```
 функцията да замени първото срещане на низа findWhat в pch с низа replaceWith 
 
-7. Да се напише функция
+8. Да се напише функция
 ```c++
 void replaceLast(char* pch, const char* findWhat, const char* replaceWith);
 ```
