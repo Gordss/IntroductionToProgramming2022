@@ -16,3 +16,4 @@
 |:one::one:| Matrices. | Exercise on matrices. |
 |:one::two:| Dynamic memory. Recursion. | Dynamic memory allocation for single and multi dimensional arrays. Introduction to recursion. |
 ||:christmas_tree: <b> CHRISTMAS VACATION </b> :gift:|24th December 2021 - 3rd January 2022|
+|:one::three:| Recursion. | Exercise over recursion. |
